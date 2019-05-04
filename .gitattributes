@@ -1,3 +1,4 @@
 bin/* linguist-vendored=true
 include/* linguist-vendored=true
 lib/* linguist-vendored=true
+SmartEditAlpha/x64/* linguist-vendored=true
